@@ -1,0 +1,19 @@
+{
+  "name": "smart-localizer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vetsinen/smart-localizer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vetsinen/smart-localizer/issues"
+  },
+  "homepage": "https://github.com/vetsinen/smart-localizer#readme"
+}
